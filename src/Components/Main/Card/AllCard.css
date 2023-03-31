@@ -1,0 +1,9 @@
+.MainContent{
+    max-width: 1080px;
+    margin: 0 auto 0 auto;
+    background-color: rgb(163, 155, 155);
+}
+.Cards{
+    display: flex;
+    display: wrap;
+}

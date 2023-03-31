@@ -1,0 +1,21 @@
+.mainHeader {
+    max-width: 1080px;
+    margin: 0 auto 0 auto;
+    background-color: rgb(208, 89, 89);
+    border-radius: 20px 20px 0 0;
+    border-bottom: 1px solid #EAEAEA;
+    padding: 0 45px;
+}
+
+.leftHeader {
+    display: flex;
+}
+
+.leftHeader .leftHeaderText {
+    display: flex;
+    flex-direction: column;
+}
+
+.rightHeader img {
+    margin: 0 10px;
+}

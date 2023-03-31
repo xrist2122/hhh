@@ -1,0 +1,32 @@
+.CartItems{
+    border: 1px solid #fffdfd;
+    position: relative;
+    width: 300px;
+    height: 120px;
+    margin: 25px;
+}
+.CartSail{    
+   display: flex;
+   position: absolute;
+   align-self: center;
+   margin: 10px;
+
+}
+.MainEnd{
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+    margin: 10px;
+}
+#CartInput{
+    border: 1px solid #f3f3f3;
+}
+#BtnBuy{
+    width: 322px;
+    height: 55px;
+}
+#BtnBuy2{
+    width: 285px;
+    height: 324px;
+
+}
